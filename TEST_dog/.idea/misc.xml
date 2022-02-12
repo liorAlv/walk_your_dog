@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bmdan/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/bmdan/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/fragment_fragmentlogin.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/bmdan/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/fragment_fragmentsignup.xml" value="0.176" />
+        <entry key="..\:/Users/bmdan/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/fragment_personalinfo_find_dgisiter.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/bmdan/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/fragment_personalnformation.xml" value="0.264" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/cards_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/fragment_fragmentlogin.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/fragment_fragmentsignup.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/fragment_front_page.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/fragment_personalinfo_dgisiter.xml" value="0.22" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/fragment_personalinfo_find_dgisiter.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/TEST_dog/app/src/main/res/layout/fragment_personalnformation.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/final final project/a/TEST_dog/app/src/main/res/layout/cards_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/final final project/a/TEST_dog/app/src/main/res/layout/fragment_fragmentlogin.xml" value="0.11231884057971014" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/final final project/a/TEST_dog/app/src/main/res/layout/fragment_fragmentsignup.xml" value="0.1" />
+        <entry key="..\:/Users/lior9/AndroidStudioProjects/final final project/a/TEST_dog/app/src/main/res/layout/fragment_front_page.xml" value="0.11231884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

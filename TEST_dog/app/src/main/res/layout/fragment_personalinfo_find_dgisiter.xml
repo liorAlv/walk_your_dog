@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragments.PersonalinfoFindDgisiter"
+
+
+    >
+
+    <EditText
+        android:id="@+id/EmailUser"
+        android:layout_width="match_parent"
+        android:layout_height="89dp"
+        android:layout_margin="5dp"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="email"
+        android:inputType="textEmailAddress"
+        android:textSize="20sp"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/PasswordUser"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:layout_margin="5dp"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="password"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:textSize="20sp"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/buttonToFireBase2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="400dp"
+        android:backgroundTint="@color/white"
+        android:text="NEXT" />
+
+
+</LinearLayout>

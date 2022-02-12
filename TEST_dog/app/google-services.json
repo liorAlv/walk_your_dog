@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800025593906",
+    "project_id": "dog-working",
+    "storage_bucket": "dog-working.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800025593906:android:7bb36dd6c5047bbbb8142b",
+        "android_client_info": {
+          "package_name": "com.example.test_dog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800025593906-sslalu4v1dimrh0l7a1e7ecu861kg2um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOUiv98iyZ49fsNJoKq4_EfSbqIr8O7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800025593906-sslalu4v1dimrh0l7a1e7ecu861kg2um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

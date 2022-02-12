@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentlogin">
+
+    <fragment
+        android:id="@+id/fragmentlogin"
+        android:name="com.example.test_dog.fragments.Fragmentlogin"
+        android:label="fragment_fragmentlogin"
+        tools:layout="@layout/fragment_fragmentlogin" >
+        <action
+            android:id="@+id/action_fragmentlogin_to_fragmentsignup"
+            app:destination="@id/fragmentsignup" />
+        <action
+            android:id="@+id/action_fragmentlogin_to_frontPage"
+            app:destination="@id/frontPage" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentsignup"
+        android:name="com.example.test_dog.fragments.Fragmentsignup"
+        android:label="fragment_fragmentsignup"
+        tools:layout="@layout/fragment_fragmentsignup" >
+        <action
+            android:id="@+id/action_fragmentsignup_to_personalinfoFindDgisiter"
+            app:destination="@id/personalinfoFindDgisiter" />
+        <action
+            android:id="@+id/action_fragmentsignup_to_personalinfoDgisiter"
+            app:destination="@id/personalinfoDgisiter" />
+    </fragment>
+    <fragment
+        android:id="@+id/personalinfoFindDgisiter"
+        android:name="com.example.test_dog.fragments.PersonalinfoFindDgisiter"
+        android:label="fragment_personalinfo_find_dgisiter"
+        tools:layout="@layout/fragment_personalinfo_find_dgisiter" />
+    <fragment
+        android:id="@+id/personalinfoDgisiter"
+        android:name="com.example.test_dog.fragments.PersonalinfoDgisiter"
+        android:label="personalinfoDgisiter" />
+    <fragment
+        android:id="@+id/frontPage"
+        android:name="com.example.test_dog.fragments.FrontPage"
+        android:label="fragment_front_page"
+        tools:layout="@layout/fragment_front_page" />
+</navigation>
